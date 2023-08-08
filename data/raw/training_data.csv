@@ -1,4 +1,4 @@
-id,gender,age,hypertension,heart_disease,ever_married,work_type,Residence_type,avg_glucose_level,bmi,smoking_status,stroke
+id,gender,age,hypertension,heart_disease,ever_married,work_type,residence_type,avg_glucose_level,bmi,smoking_status,stroke
 30669,Male,3,0,0,No,children,Rural,95.12,18,,0
 30468,Male,58,1,0,Yes,Private,Urban,87.96,39.2,never smoked,0
 16523,Female,8,0,0,No,Private,Urban,110.89,17.6,,0
