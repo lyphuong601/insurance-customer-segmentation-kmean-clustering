@@ -1,4 +1,4 @@
-# Insurance Customer Segmentation with PCA & KMeans Clustering
+# Insurance Customer Segmentation with PCA & KMean
 
 <p align="center"><img src="img/segmentation.jpeg" height="250" width="500"></p>
 
@@ -20,7 +20,8 @@
 
 ## Contents
 
-<h3>1. Segmentation with PCA and KMeans</h3>
+<h3>1. Segmentation with KMeans Clustering</h3>
+<h3>2. PCA</h3>
 
 ## Conclusion
 
