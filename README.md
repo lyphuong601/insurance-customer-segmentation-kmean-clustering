@@ -1,6 +1,6 @@
 # Insurance Customer Segmentation with PCA & KMean
 
-<p align="center"><img src="img/segmentation.jpeg" height="250" width="500"></p>
+<p align="center"><img src="img/segmentation.png" height="250" width="500"></p>
 
 ## 📌 Introduction
 - Overview: This project makes use of the available demographics data of insurance holders to categorizze customers into different segment groups.
