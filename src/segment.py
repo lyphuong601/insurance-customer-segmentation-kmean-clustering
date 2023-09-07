@@ -1,12 +1,13 @@
+"""
+This is the code that do segmentation using KMean and PCA
+"""
+
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
-import seaborn as sns
-import datetime as dt
 from sklearn.cluster import KMeans
 from sklearn.decomposition import PCA
 from sklearn.metrics import silhouette_score
-from sklearn.preprocessing import StandardScaler
 
 
 def get_pca_model(data: pd.DataFrame) -> PCA:
